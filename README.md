@@ -39,7 +39,7 @@ Aplikasi Android untuk melihat data nama, jumlah populasi, gambar bendera, dan p
 ### Metode 2: Menggunakan File APK
 
 1. Unduh APK:
-- Kunjungi [halaman releases](https://github.com/username/repo-name/releases) repository ini
+- Kunjungi [halaman releases](https://github.com/hmrizal/USStatesApp/releases/download/v1.0.0/app-release.apk)) repository ini
 - Unduh file APK terbaru
 
 2. Instal di Perangkat Android:
